@@ -1,1 +1,1 @@
-# loction-tracker
+# location-tracker
